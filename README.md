@@ -43,7 +43,7 @@ $$S_t = S_{t-1} \cdot e^{\left(\mu - \frac{1}{2}\sigma^2\right) + \sigma Z_t}, \
 
 | File | Description |
 |---|---|
-| `monte_carlo_femeli.ipynb` | Main notebook with code and analysis |
+| `Monte_Carlo_Femeli.ipynb` | Main notebook with code and analysis |
 | `femeli_prices.csv` | Historical adjusted prices used in the simulation |
 | `simulation_paths.png` | Plot of the 1,000 simulated paths |
 | `final_price_distribution.png` | Histogram of day-30 prices |
