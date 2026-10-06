@@ -4,7 +4,7 @@ A Monte Carlo simulation of the **Femeli** stock (Tehran Stock Exchange) over th
 
 ## Method
 
-1. Download adjusted daily closing prices of Femeli (1400-01-01 to 1405-07-14) with the [finpy-tse](https://github.com/ali-nsd/finpy-tse) library.
+1. Download adjusted daily closing prices of Femeli (1400-01-01 to 1405-07-14) with the [finpy-tse]([https://github.com/ali-nsd/finpy-tse](https://github.com/ARahimiQuant/finpy-tse)) library.
 2. Compute daily log returns and estimate their mean ($\mu$) and standard deviation ($\sigma$).
 3. Simulate 1,000 price paths for 30 trading days, where each day's price is:
 
